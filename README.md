@@ -24,7 +24,7 @@ The command starts the Web UI, served at `http://127.0.0.1:3080` by default. See
 
 ### Run from source
 
-To run from a repository checkout:
+With Node.js and pnpm installed, clone the repository, install its dependencies, build it, and start the Web UI:
 
 ```sh
 git clone https://github.com/deepseek-ai/deepseek-harness.git
