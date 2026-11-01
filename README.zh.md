@@ -24,7 +24,7 @@ npx @deepseek-ai/dsh web
 
 ### 从源码运行
 
-如需从仓库源码运行：
+安装 Node.js 和 pnpm 后，克隆仓库、安装依赖、构建，然后启动 Web UI：
 
 ```sh
 git clone https://github.com/deepseek-ai/deepseek-harness.git
